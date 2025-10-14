@@ -9,6 +9,16 @@
 📫 How to reach me: [ezequiel.salvador.lopezf@gmail.com](mailto:ezequiel.salvador.lopezf@gmail.com)  
 🌐 [LinkedIn - Ezequiel Salvador López Fernández](https://www.linkedin.com/in/ezequiel-salvador-l%C3%B3pez-fern%C3%A1ndez-858621386/)
 
+## 👨🏼‍🏭 &nbsp;Skills I have!
+<Br>
+
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
+  
+
+
 ## 🛠️ &nbsp;My Favourite Tools
 
 ### 🗣️ Programming Languages
