@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://github.com/TU-USUARIO/TU-USUARIO/blob/main/banner.png" alt="Banner" width="800"/>
+  <img src="Ezequiel.png" alt="Banner" width="500"/>
 </p>
 
 ## 👨🏼‍💻 &nbsp;About Me
