@@ -1,5 +1,9 @@
 <h1 align="center">Hi , I'm Ezequiel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <img src="https://github.com/TU-USUARIO/TU-USUARIO/blob/main/banner.png" alt="Banner" width="800"/>
+</p>
+
 ## 👨🏼‍💻 &nbsp;About Me
 🎓 I’m currently studying at the **University of Salamanca (USAL)**.  
 📊 Passionate about **data science**, **AI**, and **social research**.  
